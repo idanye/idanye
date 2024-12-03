@@ -46,6 +46,25 @@ I'm a passionate developer who loves to create and innovate. I enjoy building ap
 
 <br/>
 
+<!-- Repositories -->
+## ❤ Favorite Repositories
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/idanye/Tic-Tac-Toe-Reversed" title="Tic-Tac-Toe-Reversed"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=idanye&repo=Tic-Tac-Toe-Reversed&theme=react&border_color=61dafb&border_radius=10" style="margin-right: 20px;" width="350">
+  </a>
+  
+  <a align="left" href="https://github.com/idanye/outfit-planner" title="Outfit Planner"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=idanye&repo=outfit-planner&theme=react&border_color=61dafb&border_radius=10" width="350" >
+  </a>
+</div>
+
+<br/><br/><br/><br/><br/><br/>
+
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/idanye/politalk" title="PoliTalk"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=idanye&repo=politalk&theme=react&border_color=61dafb&border_radius=10" style="margin-right: 20px;" width="350">
+  </a>
+  
+</div>
+
+<br/><br/><br/><br/><br/><br/>
 
 <!-- Stats -->
 ## 📊 Stats
@@ -56,28 +75,6 @@ I'm a passionate developer who loves to create and innovate. I enjoy building ap
 </div>
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
-<!-- Repositories -->
-## ❤ Favorite Repositories
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/idanye/Tic-Tac-Toe-Reversed" title="Tic-Tac-Toe-Reversed"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=idanye&repo=Tic-Tac-Toe-Reversed&theme=react&border_color=61dafb&border_radius=10" style="margin-right: 20px;" width="350">
-  </a>
-  
-  <a align="left" href="https://github.com/idanye/your-project-2" title="Project 2"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=idanye&repo=your-project-2&theme=react&border_color=61dafb&border_radius=10" width="350" >
-  </a>
-</div>
-
-<br/><br/><br/><br/><br/><br/>
-
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/idanye/your-project-3" title="Project 3"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=idanye&repo=your-project-3&theme=react&border_color=61dafb&border_radius=10" style="margin-right: 20px;" width="350">
-  </a>
-
-  <a align="left" href="https://github.com/idanye/your-project-4" title="Project 4"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=idanye&repo=your-project-4&theme=react&border_color=61dafb&border_radius=10" width="350" >
-  </a>
-  
-</div>
-
-<br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
   <a href="https://github.com/idanye?tab=repositories" title="Show Repositories">Show More</a>
