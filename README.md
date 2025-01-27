@@ -23,11 +23,14 @@ I'm a passionate developer who loves to create and innovate. I enjoy building ap
 <!-- Skills -->
 ## 🌎 Languages 
 
-![Node.js](https://img.shields.io/badge/Node.js-JavaScript-black?style=flat&logo=node.js) 
-![Python Badge](https://img.shields.io/badge/-Python-black?style=flat&logo=python) 
-![Java Badge](https://img.shields.io/badge/-Java-black?style=flat&logo=java) 
-![C Badge](https://img.shields.io/badge/-C-black?style=flat) 
-![C# Badge](https://img.shields.io/badge/-C#-black?style=flat&logo=c%2B%2B) 
+![Node.js](https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js) 
+![Python Badge](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
+![JavaScript Badge](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=JavaScript)
+![React Badge](https://img.shields.io/badge/React.js-black?style=flat&logo=react)
+![Java Badge](https://img.shields.io/badge/Java-black) 
+![C#](https://img.shields.io/badge/C_Sharp-black)
+
+<br/>
 
 <div align=left>
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -49,16 +52,18 @@ I'm a passionate developer who loves to create and innovate. I enjoy building ap
 <!-- Repositories -->
 ## ❤ Favorite Repositories
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/idanye/Tic-Tac-Toe-Reversed" title="Tic-Tac-Toe-Reversed"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=idanye&repo=Tic-Tac-Toe-Reversed&theme=react&border_color=61dafb&border_radius=10" style="margin-right: 20px;" width="350">
-  </a>
-  
   <a align="left" href="https://github.com/idanye/outfit-planner" title="Outfit Planner"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=idanye&repo=outfit-planner&theme=react&border_color=61dafb&border_radius=10" width="350" >
+  </a>
+  <a align="left" href="https://github.com/idanye/Tic-Tac-Toe-Reversed" title="Tic-Tac-Toe-Reversed"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=idanye&repo=Tic-Tac-Toe-Reversed&theme=react&border_color=61dafb&border_radius=10" style="margin-right: 20px;" width="350">
   </a>
 </div>
 
 <br/><br/><br/><br/><br/><br/>
 
 <div width="100%" align="center">
+  <a align="left" href="https://github.com/idanye/safespace-hackathon-project" title="SafeSpace"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=idanye&repo=safespace-hackathon-project&theme=react&border_color=61dafb&border_radius=10" style="margin-right: 20px;" width="350">
+  </a>
+
   <a align="left" href="https://github.com/idanye/politalk" title="PoliTalk"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=idanye&repo=politalk&theme=react&border_color=61dafb&border_radius=10" style="margin-right: 20px;" width="350">
   </a>
   
@@ -74,9 +79,3 @@ I'm a passionate developer who loves to create and innovate. I enjoy building ap
     </a>
 </div>
 <br/><br/><br/><br/><br/><br/><br/><br/>
-
-
-<h4 align="center">
-  <a href="https://github.com/idanye?tab=repositories" title="Show Repositories">Show More</a>
-</h4>
-<hr/>
