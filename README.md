@@ -46,36 +46,3 @@ I'm a passionate developer who loves to create and innovate. I enjoy building ap
 ![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github) 
 ![Google Colab Badge](https://img.shields.io/badge/Google%20Colab-black?style=flat&logo=google-colab) 
 ![IPython Notebook Badge](https://img.shields.io/badge/Notebook-.ipynb-black?style=flat)
-
-<br/>
-
-<!-- Repositories -->
-## ❤ Favorite Repositories
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/idanye/outfit-planner" title="Outfit Planner"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=idanye&repo=outfit-planner&theme=react&border_color=61dafb&border_radius=10" width="350" >
-  </a>
-  <a align="left" href="https://github.com/idanye/Tic-Tac-Toe-Reversed" title="Tic-Tac-Toe-Reversed"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=idanye&repo=Tic-Tac-Toe-Reversed&theme=react&border_color=61dafb&border_radius=10" style="margin-right: 20px;" width="350">
-  </a>
-</div>
-
-<br/><br/><br/><br/><br/><br/>
-
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/idanye/safespace-hackathon-project" title="SafeSpace"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=idanye&repo=safespace-hackathon-project&theme=react&border_color=61dafb&border_radius=10" style="margin-right: 20px;" width="350">
-  </a>
-
-  <a align="left" href="https://github.com/idanye/politalk" title="PoliTalk"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=idanye&repo=politalk&theme=react&border_color=61dafb&border_radius=10" style="margin-right: 20px;" width="350">
-  </a>
-  
-</div>
-
-<br/><br/><br/><br/><br/><br/>
-
-<!-- Stats -->
-## 📊 Stats
-<div width="100%" align="center">
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=idanye&theme=react&border=61dafb&hide_border=true" alt="Idan Yehiel" />
-    </a>
-</div>
-<br/><br/><br/><br/><br/><br/><br/><br/>
